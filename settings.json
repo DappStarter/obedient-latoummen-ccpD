@@ -1,0 +1,16 @@
+{
+    "name": "Haven Headquarters",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Haven Support Coin",
+        "/category/asset_value_tracking/core-token/symbol": "HVN",
+        "/category/asset_value_tracking/core-token/decimals": "4",
+        "/category/asset_value_tracking/core-token/supply": "10000000"
+    }
+}
